@@ -1,9 +1,12 @@
+import '../assets/scss/main.scss'
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import JSONData from "../content/mycontent.json"
 
-import '../assets/scss/main.scss'
+
+
 
 const Layout = ({ children, location }) => {
 
@@ -39,7 +42,7 @@ const Layout = ({ children, location }) => {
       render={data => (
         <>
           <Helmet
-            title={data.site.siteMetadata.title}
+            title={JSONData.Title}
             meta={[
               { name: 'description', content: 'Sample' },
               { name: 'keywords', content: 'sample, something' },

@@ -1,20 +1,28 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import JSONData from "../content/mycontent.json"
+
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
-    <div className="logo">
-      <span className="icon fa-diamond"></span>
+    <div className="logo backdrop-blur">
+      <img src={JSONData.MainImage} style={{"maxWidth": "100%",
+        "maxHeight": "100%",
+        "display": "block",
+        "borderRadius": "50%"
+}}></img>
     </div>
-    <div className="content">
-      <div className="inner">
-        <h1>Saksham Puri</h1>
+    <div className="content backdrop-blur">
+      <div className="inner backdrop-blur">
+        <h1>{JSONData.Name}</h1>
         <p>
-          A Computer Science undergraduate student with all the work ethics on other portfolio's - but with a side of confidence that I'll make it to the top
+          {JSONData.Description.map((item) => {
+            return (<div><br/>{item}</div>)
+          })}
         </p>
       </div>
     </div>
-    <nav>
+    <nav className="backdrop-blur">
       <ul>
         <li>
           <button
@@ -22,7 +30,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            About Me
           </button>
         </li>
         <li>
@@ -40,7 +48,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            About
+            Resume
           </button>
         </li>
         <li>

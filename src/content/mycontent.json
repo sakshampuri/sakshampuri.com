@@ -1,0 +1,56 @@
+{
+	"Title": "Saksham Puri",
+	"Name": "Saksham Puri",
+	"Description": [
+		"Computer Science Undergraduate with hunger to learn and passion to make a large scale change.",
+		"I love discovering problems so I can solve them before anyone else faces it."
+	],
+	"MainImage": "https://i.imgur.com/PAUOgC5.jpg",
+	"BackgroundURL": "",
+
+	"AboutImage": "",
+	"AboutContent": [
+		"I'm an undergraduate student who is looking to be involved in as much as I can",
+		"I love playing the guitar.",
+		"",
+		""
+	],
+
+	"WorkContent": [
+		"I am currently a full time undergraduate student looking for internship opportunities for Summer 2021."
+	],
+	"WorkImage": "",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "Mahindra Comviva",
+			"link": "#"
+		},
+		{
+			"name": "Udacity",
+			"link": "#"
+		},
+		{
+			"name": "CERN",
+			"link": "#"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"Projects": [{
+			"name": "Java 2-D Game",
+			"link": "https://github.com/sakshampuri/ShooterGame"
+		}
+	],
+
+	"CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
+	"CV": "",
+	"Resume": "https://drive.google.com/file/d/1Q4oJFyY3UGOSoOKWzMxvmS1RcMTgnpZ1/view?usp=sharing",
+
+	"emailid": "mailto:me@sakshampuri.com",
+	"linkedin": "https://linkedin.com/in/sakshampuri",
+	"wordpress": "#",
+	"facebook": "",
+	"github": "https://github.com/sakshampuri",
+	"instagram": "http://www.instagram.com/sakshampuri",
+	"twitter": "https://twitter.com/sakshampuri",
+	"medium": "#"
+}
