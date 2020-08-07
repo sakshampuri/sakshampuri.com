@@ -8,13 +8,9 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Saksham Puri</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          A Computer Science undergraduate student with all the work ethics on other portfolio's - but with a side of confidence that I'll make it to the top
         </p>
       </div>
     </div>
