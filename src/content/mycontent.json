@@ -11,7 +11,7 @@
 	"AboutImage": "",
 	"AboutContent": [
 		"I'm an undergraduate student who is looking to be involved in as much as I can",
-		"I love playing the guitar.",
+		"I love playing poker, guitar and sometimes think of being a developer as a sport",
 		"",
 		""
 	],
@@ -23,15 +23,15 @@
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Mahindra Comviva",
-			"link": "#"
+			"link": "https://www.linkedin.com/in/sakshampuri/"
 		},
 		{
 			"name": "Udacity",
-			"link": "#"
+			"link": "https://www.linkedin.com/in/sakshampuri/"
 		},
 		{
 			"name": "CERN",
-			"link": "#"
+			"link": "https://www.linkedin.com/in/sakshampuri/"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
@@ -43,7 +43,7 @@
 
 	"CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
 	"CV": "",
-	"Resume": "https://drive.google.com/file/d/1Q4oJFyY3UGOSoOKWzMxvmS1RcMTgnpZ1/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1iTudLo-M0xz0rO8YXL2uDxFMJHt6vTf5/view?usp=sharing",
 
 	"emailid": "mailto:me@sakshampuri.com",
 	"linkedin": "https://linkedin.com/in/sakshampuri",
