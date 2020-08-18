@@ -42,6 +42,10 @@
   "ProjectsStartLine": "Some of the side projects I did can be found here :",
   "Projects": [
     {
+	"name" : "Chat App Using Spring Framework and Websockets", 
+	"link" : "https://bu-sprux.herokuapp.com"
+},	
+    {
       "name": "This Website!",
       "link": "https://sakshampuri.com"
     },
