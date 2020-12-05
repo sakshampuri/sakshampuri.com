@@ -1,70 +1,78 @@
 {
-  "Title": "Saksham Puri",
-  "Name": "Saksham Puri",
-  "Description": [
-    "Computer Science Undergraduate with hunger to learn and passion to make a large scale change.",
-    "I love discovering problems so I can solve them before anyone else faces it."
-  ],
-  "MainImage": "https://i.imgur.com/bkCYNrJ.jpg",
-  "BackgroundURL": "",
+    "Title": "Saksham Puri",
+    "Name": "Saksham Puri",
+    "Description": [
+        "Computer Science Undergraduate with hunger to learn and passion to make a large scale change.",
+        "I love discovering problems so I can solve them before anyone else faces it."
+    ],
+    "MainImage": "https://i.imgur.com/bkCYNrJ.jpg",
+    "BackgroundURL": "",
 
-  "AboutImage": "",
-  "AboutContent": [
-    "I'm an undergraduate student who is looking to be involved in as much as I can",
-    "I love playing poker, guitar and sometimes think of being a developer as a sport",
-    "",
-    ""
-  ],
+    "AboutImage": "",
+    "AboutContent": [
+        "I'm an undergraduate student who is looking to be involved in as much as I can",
+        "I love playing poker, guitar and sometimes think of being a developer as a sport",
+        "",
+        ""
+    ],
 
-  "WorkContent": [
-    "I am currently a full time undergraduate student looking for internship opportunities for Summer 2021."
-  ],
-  "WorkImage": "",
-  "InternshipsStartLine": "Previously, I have interned with :",
-  "InternShips": [
-    {
-      "name": "Eureka Forbes | Data Analyst Intern",
-      "link": "https://www.linkedin.com/in/sakshampuri/"
-    },
-    {
-      "name": "Udacity | Google India Challenge Scholar",
-      "link": "https://www.linkedin.com/in/sakshampuri/"
-    },
-    {
-      "name": "Mahindra Comviva | Android Development Intern",
-      "link": "https://www.linkedin.com/in/sakshampuri/"
-    },
-    {
-      "name": "CERN | Research Intern",
-      "link": "https://www.linkedin.com/in/sakshampuri/"
-    }
-  ],
-  "ProjectsStartLine": "Some of the side projects I did can be found here :",
-  "Projects": [
-    {
-	"name" : "Chat App Using Spring Framework and Websockets", 
-	"link" : "https://bu-sprux.herokuapp.com"
-},	
-    {
-      "name": "This Website!",
-      "link": "https://sakshampuri.com"
-    },
-    {
-      "name": "Java 2-D Game",
-      "link": "https://github.com/sakshampuri/ShooterGame"
-    }
-  ],
+    "WorkContent": [
+        "I am currently a full time undergraduate student looking for internship opportunities for Summer 2021."
+    ],
+    "WorkImage": "",
+    "InternshipsStartLine": "Previously, I have interned with :",
+    "InternShips": [
+        {
+            "name": "Eureka Forbes | Data Analyst Intern",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
+        {
+            "name": "Udacity | Google India Challenge Scholar",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
+        {
+            "name": "Mahindra Comviva | Android Development Intern",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
+        {
+            "name": "CERN | Research Intern",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        }
+    ],
+    "ProjectsStartLine": "Some of the side projects I did can be found here :",
+    "Projects": [
+        {
+            "name": "Mood Swings: AI Powered Music Playlist Generation and Sharing App",
+            "link": "https://www.linkedin.com/posts/sakshampuri_machinelerning-musicbiz-reactnative-ugcPost-6736273671083634688-s63p"
+        },
+        {
+            "name": "Commisioned: SpeedMart Android App (Freelance)",
+            "link": "https://play.google.com/store/apps/details?id=com.smdir.app"
+        },
+        {
+            "name": "Chat App Using Spring Framework and Websockets",
+            "link": "https://bu-sprux.herokuapp.com"
+        },
+        {
+            "name": "Java 2-D Game: Shooting",
+            "link": "https://github.com/sakshampuri/ShooterGame"
+        },
+        {
+            "name": "Java 2-D Game: Projectile Motion Capture",
+            "link": "https://github.com/sakshampuri/ProjectileGame"
+        }
+    ],
 
-  "CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
-  "CV": "",
-  "Resume": "https://drive.google.com/file/d/1iTudLo-M0xz0rO8YXL2uDxFMJHt6vTf5/view?usp=sharing",
+    "CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
+    "CV": "",
+    "Resume": "https://drive.google.com/file/d/1iTudLo-M0xz0rO8YXL2uDxFMJHt6vTf5/view?usp=sharing",
 
-  "emailid": "mailto:me@sakshampuri.com",
-  "linkedin": "https://linkedin.com/in/sakshampuri",
-  "wordpress": "#",
-  "facebook": "",
-  "github": "https://github.com/sakshampuri",
-  "instagram": "https://www.instagram.com/sakshampuri",
-  "twitter": "https://twitter.com/sakshampuri",
-  "medium": "#"
+    "emailid": "mailto:me@sakshampuri.com",
+    "linkedin": "https://linkedin.com/in/sakshampuri",
+    "wordpress": "#",
+    "facebook": "",
+    "github": "https://github.com/sakshampuri",
+    "instagram": "https://www.instagram.com/sakshampuri",
+    "twitter": "https://twitter.com/sakshampuri",
+    "medium": "#"
 }
