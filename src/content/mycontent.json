@@ -23,6 +23,10 @@
     "InternshipsStartLine": "Previously, I have interned with :",
     "InternShips": [
         {
+            "name": "Atom | Software Engineering Intern",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
+        {
             "name": "Eureka Forbes | Data Analyst Intern",
             "link": "https://www.linkedin.com/in/sakshampuri/"
         },
