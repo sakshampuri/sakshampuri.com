@@ -11,17 +11,20 @@
     "AboutImage": "",
     "AboutContent": [
         "I'm an undergraduate student who is looking to be involved in as much as I can",
-        "I love playing poker, guitar and sometimes think of being a developer as a sport",
-        "",
-        ""
+        "Currently, I'm working as a Software Engineering Intern in the Quality Engineering team at Malwarebytes",
+        "I love playing poker, guitar and sometimes think of being a developer as a sport"
     ],
 
     "WorkContent": [
-        "I am currently a full time undergraduate student looking for internship opportunities for Summer 2021."
+        "I'm currentl working at Malwarebytes and always on the look out for oppportunities. Contact me from the contact section if you're on the lookout for a killer engineer :)"
     ],
     "WorkImage": "",
     "InternshipsStartLine": "Previously, I have interned with :",
     "InternShips": [
+        {
+            "name": "Malwarebytes | Software Engineer | Ongoing",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
         {
             "name": "Atom | Software Development Engineer",
             "link": "https://www.linkedin.com/in/sakshampuri/"
