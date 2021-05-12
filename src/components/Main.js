@@ -1,9 +1,15 @@
 import PropTypes from "prop-types";
-import React from "react";
+import * as React from "react";
 import JSONData from "../content/mycontent.json";
+import ReCAPTCHA from "react-google-recaptcha";
 
 const Main = (props) => {
     const [buttonText, changeButtonText] = React.useState("Send Message");
+    const [captchaToken, changeCaptchaToken] = React.useState("");
+
+    const onCaptchaChange = (token) => {
+        changeCaptchaToken(token);
+    };
 
     let close = (
         <div
@@ -80,9 +86,9 @@ const Main = (props) => {
                 </ul>
                 {JSONData.ProjectsStartLine}
                 <ul>
-                    {JSONData.Projects.map((item) => {
+                    {JSONData.Projects.map((item, index) => {
                         return (
-                            <li>
+                            <li key={index}>
                                 <a href={item.link}>{item.name}</a>
                                 <br />
                             </li>
@@ -150,12 +156,23 @@ const Main = (props) => {
                             rows='4'
                         ></textarea>
                     </div>
+                    <input
+                        type='hidden'
+                        value={captchaToken}
+                        readOnly
+                        name='token'
+                    />
+                    <ReCAPTCHA
+                        sitekey={JSONData.recaptchaKey}
+                        onChange={onCaptchaChange}
+                    />
                     <ul className='actions'>
                         <li>
                             <input
                                 type='submit'
                                 value={buttonText}
                                 className='special'
+                                disabled={!captchaToken}
                                 onClick={() =>
                                     changeButtonText("Sending Message...")
                                 }
