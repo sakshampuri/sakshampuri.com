@@ -19,12 +19,17 @@
         "I'm currentl working at Malwarebytes and always on the look out for oppportunities. Contact me from the contact section if you're on the lookout for a killer engineer :)"
     ],
     "WorkImage": "",
-    "InternshipsStartLine": "Previously, I have interned with :",
+    "InternshipsStartLine": "Previously, I have worked/interned with:",
     "InternShips": [
         {
             "name": "Malwarebytes | Software Engineer | Ongoing",
             "link": "https://www.linkedin.com/in/sakshampuri/"
         },
+        {
+            "name": "Atom | Software Engineering Consultant/Manager | Ongoing",
+            "link": "https://www.linkedin.com/in/sakshampuri/"
+        },
+
         {
             "name": "Atom | Software Development Engineer",
             "link": "https://www.linkedin.com/in/sakshampuri/"
