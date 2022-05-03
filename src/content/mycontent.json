@@ -1,91 +1,91 @@
 {
-    "Title": "Saksham Puri",
-    "Name": "Saksham Puri",
-    "Description": [
-        "Computer Science Undergraduate with hunger to learn and passion to make a large scale change.",
-        "I love unwinding abstractions in all kinds of contexts to have a deeper understanding of the world - in and out of tech"
-    ],
-    "MainImage": "https://res.cloudinary.com/dugduact3/image/upload/v1620736073/Saksham_21_YO_Alt-min_vnqikq.jpg",
-    "BackgroundURL": "",
+	"Title": "Saksham Puri",
+	"Name": "Saksham Puri",
+	"Description": [
+		"Computer Science Undergraduate with hunger to learn and passion to make a large scale change.",
+		"I love unwinding abstractions in all kinds of contexts to have a deeper understanding of the world - in and out of tech"
+	],
+	"MainImage": "https://res.cloudinary.com/dugduact3/image/upload/v1620736073/Saksham_21_YO_Alt-min_vnqikq.jpg",
+	"BackgroundURL": "",
 
-    "AboutImage": "",
-    "AboutContent": [
-        "I'm an undergraduate student who is looking to be involved in as much as I can",
-        "Currently, I'm working as a Software Engineering Intern in the Quality Engineering team at Malwarebytes",
-        "I love playing poker, guitar and sometimes think of being a developer as a sport"
-    ],
+	"AboutImage": "",
+	"AboutContent": [
+		"I'm an undergraduate student who is looking to be involved in as much as I can",
+		"Currently, I'm working as a Software Engineering Intern in the Quality Engineering team at Malwarebytes",
+		"I love playing poker, guitar and sometimes think of being a developer as a sport"
+	],
 
-    "WorkContent": [
-        "I'm currently working at Malwarebytes and I love exploring different engineering opportunities. Contact me from the contact section if you have anything interesting :)"
-    ],
-    "WorkImage": "",
-    "InternshipsStartLine": "Previously, I have worked/interned with:",
-    "InternShips": [
-        {
-            "name": "Malwarebytes | Software Engineer | Ongoing",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
-        {
-            "name": "Atom | Software Engineering Consultant/Manager | Ongoing",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
+	"WorkContent": [
+		"I'm currently working at Malwarebytes and I love exploring different engineering opportunities. Contact me from the contact section if you have anything interesting :)"
+	],
+	"WorkImage": "",
+	"InternshipsStartLine": "Previously, I have worked/interned with:",
+	"InternShips": [
+		{
+			"name": "Malwarebytes | Software Engineer | Ongoing",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "Atom | Software Engineering Consultant/Manager | Ongoing",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
 
-        {
-            "name": "Atom | Software Development Engineer",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
-        {
-            "name": "Eureka Forbes | Data Analyst Intern",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
-        {
-            "name": "Udacity | Google India Challenge Scholar",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
-        {
-            "name": "Mahindra Comviva | Android Development Intern",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        },
-        {
-            "name": "CERN | Research Intern",
-            "link": "https://www.linkedin.com/in/sakshampuri/"
-        }
-    ],
-    "ProjectsStartLine": "Some of the side projects I did can be found here :",
-    "Projects": [
-        {
-            "name": "Mood Swings: AI Powered Music Playlist Generation and Sharing App",
-            "link": "https://www.linkedin.com/posts/sakshampuri_machinelerning-musicbiz-reactnative-ugcPost-6736273671083634688-s63p"
-        },
-        {
-            "name": "Commisioned: SpeedMart Android App (Freelance)",
-            "link": "https://play.google.com/store/apps/details?id=com.smdir.app"
-        },
-        {
-            "name": "Chat App Using Spring Framework and Websockets",
-            "link": "https://bu-sprux.herokuapp.com"
-        },
-        {
-            "name": "Java 2-D Game: Shooting",
-            "link": "https://github.com/sakshampuri/ShooterGame"
-        },
-        {
-            "name": "Java 2-D Game: Projectile Motion Capture",
-            "link": "https://github.com/sakshampuri/ProjectileGame"
-        }
-    ],
+		{
+			"name": "Atom | Software Development Engineer",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "Eureka Forbes | Data Analyst Intern",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "Udacity | Google India Challenge Scholar",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "Mahindra Comviva | Android Development Intern",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "CERN | Research Intern",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"Projects": [
+		{
+			"name": "Mood Swings: AI Powered Music Playlist Generation and Sharing App",
+			"link": "https://www.linkedin.com/posts/sakshampuri_machinelerning-musicbiz-reactnative-ugcPost-6736273671083634688-s63p"
+		},
+		{
+			"name": "Commisioned: SpeedMart Android App (Freelance)",
+			"link": "https://play.google.com/store/apps/details?id=com.smdir.app"
+		},
+		{
+			"name": "Chat App Using Spring Framework and Websockets",
+			"link": "https://bu-sprux.herokuapp.com"
+		},
+		{
+			"name": "Java 2-D Game: Shooting",
+			"link": "https://github.com/sakshampuri/ShooterGame"
+		},
+		{
+			"name": "Java 2-D Game: Projectile Motion Capture",
+			"link": "https://github.com/sakshampuri/ProjectileGame"
+		}
+	],
 
-    "CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
-    "CV": "",
-    "Resume": "https://drive.google.com/file/d/13jMesTOI_l0eNkUaJMez8snnRpBSKjZb/view?usp=sharing",
+	"CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
+	"CV": "",
+	"Resume": "https://drive.google.com/file/d/1OMzZVYuueNQoPBoEb-v3Fo1kD3bWrWUD/view?usp=sharing",
 
-    "emailid": "https://l66oddjw58.execute-api.ap-south-1.amazonaws.com/dev/forms/contact",
-    "linkedin": "https://linkedin.com/in/sakshampuri",
-    "wordpress": "#",
-    "facebook": "",
-    "github": "https://github.com/sakshampuri",
-    "instagram": "https://www.instagram.com/sakshampuri",
-    "twitter": "https://twitter.com/sakshampuri",
-    "medium": "#",
-    "recaptchaKey": "6LdbHNEaAAAAANOlrehFBnVk_0e6wqnh2RZLHb5E"
+	"emailid": "https://l66oddjw58.execute-api.ap-south-1.amazonaws.com/dev/forms/contact",
+	"linkedin": "https://linkedin.com/in/sakshampuri",
+	"wordpress": "#",
+	"facebook": "",
+	"github": "https://github.com/sakshampuri",
+	"instagram": "https://www.instagram.com/sakshampuri",
+	"twitter": "https://twitter.com/sakshampuri",
+	"medium": "#",
+	"recaptchaKey": "6LdbHNEaAAAAANOlrehFBnVk_0e6wqnh2RZLHb5E"
 }
