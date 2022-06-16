@@ -10,23 +10,26 @@
 
 	"AboutImage": "",
 	"AboutContent": [
-		"I'm an undergraduate student who is looking to be involved in as much as I can",
-		"Currently, I'm working as a Software Engineering Intern in the Quality Engineering team at Malwarebytes",
+		"Currently, I'm working as a Software Engineer (UI) at Rippling",
 		"I love playing poker, guitar and sometimes think of being a developer as a sport"
 	],
 
 	"WorkContent": [
-		"I'm currently working at Malwarebytes and I love exploring different engineering opportunities. Contact me from the contact section if you have anything interesting :)"
+		"I'm currently working at Rippling as a Frontend Engineer. Contact me from the contact section if you have anything interesting :)"
 	],
 	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have worked/interned with:",
 	"InternShips": [
 		{
-			"name": "Malwarebytes | Software Engineer | Ongoing",
+			"name": "Rippling | Software Engineer | Bangalore, India",
 			"link": "https://www.linkedin.com/in/sakshampuri/"
 		},
 		{
-			"name": "Atom | Software Engineering Consultant/Manager | Ongoing",
+			"name": "Malwarebytes | Software Engineer | Remote",
+			"link": "https://www.linkedin.com/in/sakshampuri/"
+		},
+		{
+			"name": "Atom | Software Engineering Consultant/Manager",
 			"link": "https://www.linkedin.com/in/sakshampuri/"
 		},
 
@@ -77,7 +80,7 @@
 
 	"CVStartLine": "Always open to work, hustle and collaborate. Reach out to me :)",
 	"CV": "",
-	"Resume": "https://drive.google.com/file/d/1OMzZVYuueNQoPBoEb-v3Fo1kD3bWrWUD/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1FJKcnpmNSQqkoQYKRrnOAvWWtzP564pA/view?usp=sharing",
 
 	"emailid": "https://l66oddjw58.execute-api.ap-south-1.amazonaws.com/dev/forms/contact",
 	"linkedin": "https://linkedin.com/in/sakshampuri",
